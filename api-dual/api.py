@@ -16,4 +16,4 @@ def proxy_discord_webhook():
         return jsonify({"error": "idk"}), 500
 
 if __name__ == '__main__':
-    app.run('0.0.0.0', 1337)
+    app.run('0.0.0.0', 0123)
