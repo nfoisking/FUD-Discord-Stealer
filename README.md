@@ -21,7 +21,6 @@
 
 ### ⚔️ 〢 Features
 
-#### Stealer
 > Percistance Hidden Startup.
 > 
 > Discord Token Stealer.
@@ -44,7 +43,9 @@
 
 #### Skidders. (DON'T BUY SHIT with DUALHOOK LOOL)
 > https://t.me/flamestealer
+> 
 > https://t.me/awsxustealer
+> 
 > https://t.me/celestialdev
 
 ### 📸 〢 Screenshots
