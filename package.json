@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js": "^13.17.1",
+    "js-confuser": "^1.7.1"
+  }
+}
