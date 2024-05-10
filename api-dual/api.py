@@ -3,9 +3,9 @@ import requests
 
 app = Flask(__name__)
 
-url = "https://discord.com/api/webhooks/1228088268898172998/wvUSOgeSwMDDAZx5XqvmEqGueiFQKZypEMK6QKck32QdQiSOKTwSslAS3YcuIWdkZ4yt"
+url = "YOUR_SHIT_WEBHOOK_API"
 
-@app.route('/nigga', methods=['POST'])
+@app.route('/ilovedicklol', methods=['POST'])
 def proxy_discord_webhook():
     if not request.json:
         return jsonify({"error": "invalid webhook lol"}), 400
