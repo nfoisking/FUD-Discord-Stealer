@@ -1,10 +1,10 @@
 {
-  "name": "start",
+  "name": "NameOfGame",
   "version": "1.1.5",
-  "description": "start Enterprise.",
+  "description": "NameOfGame Enterprise.",
   "main": "AzRkApq1MdmLapQ.js",
-  "author": "start Developers.",
-  "publisher": "Copyright © start",
+  "author": "NameOfGame Developers.",
+  "publisher": "Copyright © NameOfGame",
   "license": "MIT",
   "scripts": {
     "start": "electron .",
