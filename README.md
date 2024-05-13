@@ -48,11 +48,6 @@
 > 
 > https://t.me/celestialdev
 
-### 📸 〢 Screenshots
-<img title="" src="https://media.discordapp.net/attachments/994591063253733407/1218380347729772644/image.png?ex=66383b9f&is=6636ea1f&hm=06219c1455394a23e2d272c56de959c5bbd68834dbe68610c95ba58932ba8cc5&](https://media.discordapp.net/attachments/1236022708408553585/1238620498712199228/image.png?ex=663ff2bb&is=663ea13b&hm=eb573ebf86c4569c402a3f270ac8c4c03a5cca895128e3fa929aec916e9d0c0f&=&format=webp&quality=lossless&width=422&height=437" alt="" width="750">
-
-<a id="todo"></a>
-
 <h1>About LxnnyStealer V1</h1>
 <p><li>Author: nfo & Fakie.</li></p>
 <p><li>Version: 1.0</li></p>
