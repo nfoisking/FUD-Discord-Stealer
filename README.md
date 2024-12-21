@@ -55,5 +55,3 @@
 <p><li>Forks: NikkiStealer & FewerStealer. (Thanks for: Fewer and Sk4yx)</li></p>
 <h1>Contact</h1>
 <p><li>Email: hello@nfoisking.com</li></p>
-<h1>Thanks for using</h1>
-<p><li>Please press star and fork if you find it interesting</li></p>
